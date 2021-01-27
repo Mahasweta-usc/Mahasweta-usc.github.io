@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en-US" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_large html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_5607 av-cookies-no-cookie-consent av-no-preview html_text_menu_active ">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="index, follow" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Research Areas &#8211; AI Institute for Food Systems</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="AI Institute for Food Systems &raquo; Feed" href="https://aifs.ucdavis.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AI Institute for Food Systems &raquo; Comments Feed" href="https://aifs.ucdavis.edu/comments/feed/" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Metrophobic';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/aifs.ucdavis.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='avia-grid-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/grid.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/base.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/layout.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-audioplayer-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-blog-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-postslider-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-buttonrow-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-fullwidth-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-catalogue-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/catalogue/catalogue.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-comments-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-contact-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-contentpartner-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contentslider/contentslider.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-countdown-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-hor-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-maps-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/google_maps/google_maps.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gridrow-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-heading-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-rotator-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hr-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icon-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconbox-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icongrid-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconlist-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-image-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hotspot-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-magazine-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-masonry-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-siteloader-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-menu-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-modfule-notification-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-numbers-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-portfolio-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-progress-bar-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-promobox-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/promobox/promobox.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-sc-search-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/search/search.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-accordion-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-feature-image-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullsize-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullscreen-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-ls-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-social-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabsection-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-table-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabs-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-team-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-testimonials-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-timeline-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-toggles-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-video-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=4.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/shortcodes.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.7.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-lightbox-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.7.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-widget-css-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.7.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='https://aifs.ucdavis.edu/wp-content/uploads/dynamic_avia/enfold.css?ver=5f7e1f1274b1a' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='https://aifs.ucdavis.edu/wp-content/themes/enfold/css/custom.css?ver=4.7.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/avia-compat.js?ver=4.7.4'></script>
+<link rel='https://api.w.org/' href='https://aifs.ucdavis.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://aifs.ucdavis.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://aifs.ucdavis.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.7" />
+<link rel="canonical" href="https://aifs.ucdavis.edu/research-areas/" />
+<link rel='shortlink' href='https://aifs.ucdavis.edu/?p=5607' />
+<link rel="alternate" type="application/json+oembed" href="https://aifs.ucdavis.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faifs.ucdavis.edu%2Fresearch-areas%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://aifs.ucdavis.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faifs.ucdavis.edu%2Fresearch-areas%2F&#038;format=xml" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="AI Institute for Food Systems RSS2 Feed" href="https://aifs.ucdavis.edu/feed/" />
+<link rel="pingback" href="https://aifs.ucdavis.edu/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://aifs.ucdavis.edu/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
+src: url('https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
+url('https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.7.4
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.7.1.1
+aviaElementManager Version: 1.0.1
+ML:2048-PU:37-PLA:6
+WP:4.9.7
+Compress: CSS:disabled - JS:disabled
+Updates: disabled
+PLAu:5
+-->
+</head>
+
+
+
+
+<body id="top" class="page-template-default page page-id-5607 page-parent  rtl_columns stretched metrophobic arial-websave arial no_sidebar_border" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color dark_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_large av_header_sticky av_header_shrinking av_header_stretch av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_minimal_header av_bottom_nav_disabled  av_header_border_disabled'  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_right av_extra_header_active av_entry_id_5607'>
+		
+			      <div class='container'>
+			      <ul class='noLightbox social_bookmarks icon_count_3'></ul>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://aifs.ucdavis.edu/'><img height='100' width='300' src='/wp-content/uploads/AIFS-logo-300x113.png' alt='AI Institute for Food Systems' title='' /></a></span><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-5632" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-1"><a href="/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-5631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://aifs.ucdavis.edu/about/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-5623" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5607 current_page_item menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="https://aifs.ucdavis.edu/research-areas/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Research Areas</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-5962" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aifs.ucdavis.edu/research-areas/artificial-intelligence/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Artificial Intelligence</span></a></li>
+	<li id="menu-item-5966" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aifs.ucdavis.edu/research-areas/molecular-breeding/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Molecular Breeding</span></a></li>
+	<li id="menu-item-5965" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aifs.ucdavis.edu/research-areas/agricultural-production/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Agricultural Production</span></a></li>
+	<li id="menu-item-5964" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aifs.ucdavis.edu/research-areas/food-processing-and-distribution/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Food Processing and Distribution</span></a></li>
+	<li id="menu-item-5963" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aifs.ucdavis.edu/research-areas/nutrition/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Nutrition</span></a></li>
+	<li id="menu-item-5961" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://aifs.ucdavis.edu/research-areas/ethics-and-socioeconomics/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ethics and Socioeconomics</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-4"><a href="https://aifs.ucdavis.edu/engagement/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Engagement</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-5626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://aifs.ucdavis.edu/partners/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Partners</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-5999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://aifs.ucdavis.edu/food-systems-seminar-series/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Seminar Series</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-5624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7"><a href="https://aifs.ucdavis.edu/contact/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a aria-label="Search" href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://aifs.ucdavis.edu/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#" aria-label="Menu" aria-hidden="false">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+								<span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Menu</strong>
+								</span>
+							</span>
+							<span class="avia_hidden_link_text">Menu</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='116'>
+
+	<div id='av_section_1'  class='avia-section main_color avia-section-huge avia-no-border-styling  av-parallax-section av-section-color-overlay-active avia-bg-style-parallax  avia-builder-el-0  el_before_av_section  avia-builder-el-first   container_wrap fullsize' style=' margin-top:0px; margin-bottom:0px; '  data-section-bg-repeat='no-repeat'><div class='av-parallax' data-avia-parallax-ratio='0.3' ><div class='av-parallax-inner main_color  avia-full-stretch' style = 'background-repeat: no-repeat; background-image: url(https://aifs.ucdavis.edu/wp-content/uploads/female-factory-worker-maintaining-record-on-clipbo-B2NSLDM-1030x687.jpg);background-attachment: scroll; background-position: top left; ' ></div></div><div class='av-section-color-overlay-wrap'><div class='av-section-color-overlay' style='opacity: 0.3; background-color: #000000; '></div><div class='container' ><main  role="main" itemprop="mainContentOfPage"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-5607'><div class='entry-content-wrapper clearfix'>
+<div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-1  el_before_av_three_fifth  avia-builder-el-first  " style='border-radius:0px; '></div><div class="flex_column av_three_fifth  flex_column_div av-zero-column-padding   avia-builder-el-2  el_after_av_one_fifth  el_before_av_one_fifth  " style='border-radius:0px; '><div  style='padding-bottom:10px; color:#ffffff;' class='av-special-heading av-special-heading-h1 custom-color-heading blockquote modern-quote  avia-builder-el-3  el_before_av_textblock  avia-builder-el-first  '><h1 class='av-special-heading-tag '  itemprop="headline"  >Research Areas</h1><div class='special-heading-border'><div class='special-heading-inner-border' style='border-color:#ffffff'></div></div></div>
+<section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><p>The AI Institute for Next Generation Food Systems, or AIFS, aims to meet growing demands in our food supply by increasing efficiencies using AI and bioinformatics spanning the entire system — from growing crops through consumption.</p>
+</div></section></div><div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-5  el_after_av_three_fifth  avia-builder-el-last  " style='border-radius:0px; '></div>
+
+</div></div></main><!-- close content main element --></div></div></div><div id='top'  class='avia-section main_color avia-section-huge avia-no-border-styling  avia-bg-style-scroll  avia-builder-el-6  el_after_av_section  avia-builder-el-last   container_wrap fullsize' style='background-color: #191919;  '  ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-5607'><div class='entry-content-wrapper clearfix'>
+<div class="flex_column av_one_full  flex_column_div av-zero-column-padding first  avia-builder-el-7  avia-builder-el-no-sibling  " style='margin-top:0px; margin-bottom:-60px; border-radius:0px; '><div id='av-masonry-1' class='av-masonry  noHover av-fixed-size av-large-gap av-hover-overlay-active av-masonry-animation-active av-masonry-col-3 av-caption-always av-caption-style-overlay av-masonry-gallery     '  ><div class='av-masonry-container isotope av-js-disabled ' ><div class='av-masonry-entry isotope-item av-masonry-item-no-image '></div><a href="/research-areas/artificial-intelligence/" id='av-masonry-1-item-5937' data-av-masonry-item='5937' class='av-masonry-entry isotope-item post-5937 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="20180518-weeds-ag-9239"  itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://aifs.ucdavis.edu/wp-content/uploads/20180518-weeds-ag-9239-705x469.jpg);" title="20180518-weeds-ag-9239" ></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><div class='av-masonry-entry-content entry-content'  itemprop="text" >ARTIFICIAL INTELLIGENCE</div></div></div></figcaption></figure></a><!--end av-masonry entry--><a href="/research-areas/molecular-breeding/" id='av-masonry-1-item-5862' data-av-masonry-item='5862' class='av-masonry-entry isotope-item post-5862 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="ACtC-3cfVDCo0TT8G6NlpzE7Rxlq-Z5a2DjPnBEPOvspetE8iOz2jV4kwf6x9izYUbWmL0z89LZT6pKt34ex-Yw2XqjEGV1eTYg0MRq8i69cErB5XaD_CJyKvtPZHDCzTPpqXLqkgs2O7ggTFCewh8oVpqME_Aw1365-h910-no"  itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://aifs.ucdavis.edu/wp-content/uploads/ACtC-3cfVDCo0TT8G6NlpzE7Rxlq-Z5a2DjPnBEPOvspetE8iOz2jV4kwf6x9izYUbWmL0z89LZT6pKt34ex-Yw2XqjEGV1eTYg0MRq8i69cErB5XaD_CJyKvtPZHDCzTPpqXLqkgs2O7ggTFCewh8oVpqME_Aw1365-h910-no-705x470.jpg);" title="ACtC-3cfVDCo0TT8G6NlpzE7Rxlq-Z5a2DjPnBEPOvspetE8iOz2jV4kwf6x9izYUbWmL0z89LZT6pKt34ex-Yw2XqjEGV1eTYg0MRq8i69cErB5XaD_CJyKvtPZHDCzTPpqXLqkgs2O7ggTFCewh8oVpqME_Aw1365-h910-no" ></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><div class='av-masonry-entry-content entry-content'  itemprop="text" >MOLECULAR BREEDING</div></div></div></figcaption></figure></a><!--end av-masonry entry--><a href="/research-areas/food-processing-and-distribution/" id='av-masonry-1-item-5864' data-av-masonry-item='5864' class='av-masonry-entry isotope-item post-5864 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="ACtC-3cAAraQ96xCMy3iYgIHc0Blj4d70A90UVZqRlTPWA6XRljsomcIjtcHVcakbmf-ENM3iJVBG6vy7AklIBGlSWvvjokIJR1ev_1WmYpfnvpjJtBsR0GwYoOivAeJei1lSZdb-f2Zq26orsMH3bek5ahy2Qw1368-h910-no"  itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://aifs.ucdavis.edu/wp-content/uploads/ACtC-3cAAraQ96xCMy3iYgIHc0Blj4d70A90UVZqRlTPWA6XRljsomcIjtcHVcakbmf-ENM3iJVBG6vy7AklIBGlSWvvjokIJR1ev_1WmYpfnvpjJtBsR0GwYoOivAeJei1lSZdb-f2Zq26orsMH3bek5ahy2Qw1368-h910-no-705x469.jpg);" title="ACtC-3cAAraQ96xCMy3iYgIHc0Blj4d70A90UVZqRlTPWA6XRljsomcIjtcHVcakbmf-ENM3iJVBG6vy7AklIBGlSWvvjokIJR1ev_1WmYpfnvpjJtBsR0GwYoOivAeJei1lSZdb-f2Zq26orsMH3bek5ahy2Qw1368-h910-no" ></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><div class='av-masonry-entry-content entry-content'  itemprop="text" >AGRICULTURAL PRODUCTION</div></div></div></figcaption></figure></a><!--end av-masonry entry--><a href="/research-areas/food-processing-and-distribution/" id='av-masonry-1-item-5866' data-av-masonry-item='5866' class='av-masonry-entry isotope-item post-5866 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title=""  itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://aifs.ucdavis.edu/wp-content/uploads/stainless-steel-wine-vats-in-a-row-inside-the-winery-equipment-of-winemaker-with-steel-barrels-for-fermentation_S6lwzUBNYe-705x470.jpg);"></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><div class='av-masonry-entry-content entry-content'  itemprop="text" >FOOD PROCESSING & DISTRIBUTION</div></div></div></figcaption></figure></a><!--end av-masonry entry--><a href="/research-areas/nutrition/" id='av-masonry-1-item-5867' data-av-masonry-item='5867' class='av-masonry-entry isotope-item post-5867 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="green-fruits-and-vegetables-on-wooden-background"  itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://aifs.ucdavis.edu/wp-content/uploads/green-fruits-and-vegetables-on-wooden-background-705x468.jpg);" title="green-fruits-and-vegetables-on-wooden-background" ></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><div class='av-masonry-entry-content entry-content'  itemprop="text" >NUTRITION</div></div></div></figcaption></figure></a><!--end av-masonry entry--><a href="/research-areas/ethics-and-socioeconomics/" id='av-masonry-1-item-6267' data-av-masonry-item='6267' class='av-masonry-entry isotope-item post-6267 attachment type-attachment status-inherit hentry  av-masonry-item-with-image' title="farm"  itemprop="thumbnailUrl" ><div class='av-inner-masonry-sizer'></div><figure class='av-inner-masonry main_color'><div class="av-masonry-outerimage-container"><div class="av-masonry-image-container" style="background-image: url(https://aifs.ucdavis.edu/wp-content/uploads/farm-705x302.png);" title="farm" ></div></div><figcaption class='av-inner-masonry-content site-background'><div class='av-inner-masonry-content-pos'><div class='av-inner-masonry-content-pos-content'><div class='avia-arrow'></div><div class='av-masonry-entry-content entry-content'  itemprop="text" >ETHICS & SOCIOECONOMICS</div></div></div></figcaption></figure></a><!--end av-masonry entry--></div></div></div>
+</div></div></div><!-- close content main div --> <!-- section close by builder template -->		</div><!--end builder template--></div><!-- close default .container_wrap element -->				<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://aifs.ucdavis.edu/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://aifs.ucdavis.edu/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://aifs.ucdavis.edu/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/avia.js?ver=4.7.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/shortcodes.js?ver=4.7.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=4.9.7'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.7.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=4.7.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.7.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.7.4'></script>
+<script type='text/javascript' src='https://aifs.ucdavis.edu/wp-includes/js/wp-embed.min.js?ver=4.9.7'></script>
+
+<script type='text/javascript'>
+			
+	(function($) {
+					
+			/*	check if google analytics tracking is disabled by user setting via cookie - or user must opt in.	*/
+					
+			var analytics_code = "\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script id='google_analytics_script' class='google_analytics_scripts' async src='https:\/\/www.googletagmanager.com\/gtag\/js?id=UA-179942234-1'><\/script>\n<script class='google_analytics_scripts' type='text\/javascript'>\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'UA-179942234-1', { 'anonymize_ip': true });\n<\/script>\n".replace(/\"/g, '"' );
+			var html = document.getElementsByTagName('html')[0];
+
+			$('html').on( 'avia-cookie-settings-changed', function(e) 
+			{
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+					var script_loaded = $( 'script.google_analytics_scripts' );
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( ! allow_continue )
+					{ 
+//						window['ga-disable-UA-179942234-1'] = true;
+						if( script_loaded.length > 0 )
+						{
+							script_loaded.remove();
+						}
+					}
+					else
+					{
+						if( script_loaded.length == 0 )
+						{
+							$('head').append( analytics_code );
+						}
+					}
+			});
+			
+			$('html').trigger( 'avia-cookie-settings-changed' );
+						
+	})( jQuery );
+				
+</script></body>
+</html>
