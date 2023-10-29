@@ -22,13 +22,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hello and Welcome!
 
-I am a doctoral candidate in Computational Social Science at the Department of Communication, UC Davis. My research concerns semi-formal/informal, autonomous online communities, and how they form functional self-governance systems. I am advised by [Prof. Seth Frey](https://communication.ucdavis.edu/people/seth-frey) and part of the [Computational Communication Research Lab](https://c2.ucdavis.edu/). I have a Masters and a Bachelors in electrical engineering from University of Southern California and Jadavpur University.
+I am a doctoral candidate in Computational Social Science at the Department of Communication, UC Davis. My research concerns autonomous online communities, and how they form functional self-governance systems. I am advised by [Prof. Seth Frey](https://communication.ucdavis.edu/people/seth-frey) and part of the [Computational Communication Research Lab](https://c2.ucdavis.edu/). I have a Masters and a Bachelors in electrical engineering from University of Southern California and Jadavpur University.
 
-Working through thousands of Apache and Github communities, I was fascinated by the inventiveness and dedication of the developers. What brings them together? How are such spectacular projects kept free? Why would anyone chose to build software for free?! 
+Working through thousands of Apache and Github communities, I was fascinated by the inventiveness and dedication of the developers. What brings them together? How are such spectacular projects kept free? What drives them to contribute for free? 
 
 And importantly, how do these teams coordinate, without an overseeing management?  
 
-OSS projects stand apart from software companies in how teams run themselves. Communities often set up their own policies and codes through democratic consensus. I study how such policies are constituted and observed, and their effective role in a project's growth and sustained operations. My interests have lately expanded into how extensive are the licensing terms over AI artifacts from OSS projects, particularly the models they release. OSS is unique in so many ways, and I am just about scratching at the surface. 
+OSS projects stand apart from software companies in how teams run themselves. Communities often set up their own policies and codes through democratic consensus. I study how such policies are constituted and observed, and their effective role in a project's growth and sustained operations. My interests have lately expanded into how extensive the licensing terms over OSS AI artifacts are, particularly the models released. OSS is unique in so many ways, and I am just about scratching at the surface. 
 
 I am partially supported by the National Science Foundation-Growing Convergence Research (GCR) Scheme. I closely work with Prof. Vladimir Filkov, Prof. Charles Schweik and Prof. Brenda Bushouse as part of the collaborative network. 
 
