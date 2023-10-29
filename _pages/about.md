@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Kerr Hall</p>
     <p>One Shields Ave</p>
     <p>University of California Davis</p>
     <p>Davis, CA 95616</p>
@@ -21,11 +22,15 @@ social: true  # includes social icons at the bottom of the page
 
 Hello and Welcome!
 
-I am a doctoral candidate in Computational Social Science at the Department of Communication, UC Davis. My research concerns semi-formal/informal autonomous online communities, how they establish consensus and form functional self-governance systems. I am advised by [Dr. Seth Frey](https://communication.ucdavis.edu/people/seth-frey) and part of the [Computational Communication Research Lab](https://c2.ucdavis.edu/).
+I am a doctoral candidate in Computational Social Science at the Department of Communication, UC Davis. My research concerns semi-formal/informal, autonomous online communities, how they establish consensus and form functional self-governance systems. I am advised by [Prof. Seth Frey](https://communication.ucdavis.edu/people/seth-frey) and part of the [Computational Communication Research Lab](https://c2.ucdavis.edu/). I have a Masters and a Bachelors in electrical engineering from University of Southern California and Jadavpur University.
 
-Working through thousands of Apache and Github communities, I was fascinated with the the inventiveness and dedication of OSS developers. How do such spectacular projects come for free? Why do even developers chose to work for free and not a company?! What gets OSS developers to keep working together? How do they not fall apart without an HR?      
+Working through thousands of Apache and Github communities, I was fascinated by the inventiveness and dedication of the developers. What brings them together? How are such spectacular projects kept free? Why would anyone chose to build software for free?! 
 
-More specifically, I study collaborative open source development through community policies, and their effective growth and sustained operations. 
+And importantly, how do these teams collaborate and coordinate, without an overseeing management?  
+
+OSS projects stand apart from software companies in how they let teams run themselves. Communities often set up their own policies and codes through democratic consensus. I study how such policies are constituted and observed, and their effective role in a project's growth and sustained operations. My interests have lately expanded into how projects license AI artificats, particularly the models they release. OSS is unique in so many ways, and I am just about scratching at the surface. 
+
+My PhD is partially supported by the National Science Foundation-Growing Convergence Research (GCR) Scheme. I also work with Prof. Vladimir Filkov, Prof. Charles Schweik and Prof. Brenda Bushouse as part of the collaborative network. 
 
 <!-- [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
