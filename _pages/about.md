@@ -26,7 +26,7 @@ I am a doctoral candidate in Computational Social Science at the Department of C
 
 Working through thousands of Apache and Github communities, I was fascinated by the inventiveness and dedication of the developers. How are such splendid software developed and maintained for free? OSS projects stand apart from software companies in how teams run themselves. Importantly, how do these teams coordinate, without a chain of management?  
 
-Communities often set up their own policies and codes through democratic consensus. I study how such policies are constituted and observed, and their effective role in a project's growth and sustained operations. My approaches include linguistic/semantic behavioral analysis of developer groups. My interests have lately expanded into how licensing terms of OSS AI models have evolved with time, scale and scope of applications.
+Communities often set up their own policies and codes through democratic consensus. I study how such policies are constituted and observed, and their effective role in a project's growth and sustained operations. My approaches include behavioral analysis through documentation, activity and other trace data from projects, using linguistic and semantic methods. My interests have lately expanded into how licensing terms of public AI models have evolved with time, scale and scope of applications.
 
 I am supported by the National Science Foundation-Growing Convergence Research (GCR) Scheme. I closely work with Prof. Vladimir Filkov, Prof. Charles Schweik and Prof. Brenda Bushouse as part of the collaborative network. 
 
