@@ -24,7 +24,7 @@ Hello and Welcome!
 
 I am a doctoral candidate in Computational Social Science at the Department of Communication, UC Davis. My research concerns autonomous online communities producing digital public goods (DPG), and how they form functional self-governance systems. I am advised by [Prof. Seth Frey](https://communication.ucdavis.edu/people/seth-frey) and part of the [Computational Communication Research Lab](https://c2.ucdavis.edu/). I have a Masters and a Bachelors in electrical engineering from University of Southern California and Jadavpur University.
 
-Working through thousands of Apache and Github communities, I was fascinated by the inventiveness and dedication of the developers. How are such splendid software developed and maintained for free? OSS projects stand apart from software companies in how teams run themselves. Importantly, how do these teams coordinate, without a chain of management?  
+Working through thousands of Apache and Github communities, I was fascinated by the inventiveness and dedication of the developers. How are such splendid software developed and maintained for free? OSS projects stand apart from software companies in how teams run themselves. Importantly, in how they coordinate, without a chain of management.  
 
 Communities often set up their own policies and codes through democratic consensus. I study how such policies are constituted and observed, and their effective role in a project's growth and sustained operations. My approaches include behavioral analysis through documentation, activity and other trace data from projects, using linguistic and semantic methods. My interests have lately expanded into how licensing terms of public AI models have evolved with time, scale and scope of applications.
 
