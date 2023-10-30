@@ -28,7 +28,7 @@ Working through thousands of Apache and Github communities, I was fascinated by 
 
 Communities often set up their own policies and codes through democratic consensus. I study how such policies are constituted and observed, and their effective role in a project's growth and sustained operations. My approaches include behavioral analysis through documentation, activity and other trace data from projects, using linguistic and semantic methods. My interests have lately expanded into how licensing terms of public AI models have evolved with time, scale and scope of applications.
 
-I am supported by the National Science Foundation-Growing Convergence Research (GCR) Scheme. I closely work with Prof. Vladimir Filkov, Prof. Charles Schweik and Prof. Brenda Bushouse as part of the collaborative network. 
+I am supported by the National Science Foundation under their Growing Convergence Research (GCR) Scheme. I closely work with Prof. Vladimir Filkov, Prof. Charles Schweik and Prof. Brenda Bushouse as part of the collaborative network. 
 
 <!-- [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
