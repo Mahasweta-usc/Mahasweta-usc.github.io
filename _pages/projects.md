@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 
+description: <em>“Equality may be a fiction but nonetheless one must accept it as a governing principle.”</em> ― <a href='https://globalcenters.columbia.edu/content/mumbai-bhimrao-ramji-ambedkar'>B. R. Ambedkar</a>
 nav: true
 nav_order: 2
 display_categories: [work, fun]
