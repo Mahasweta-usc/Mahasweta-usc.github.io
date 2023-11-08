@@ -1,18 +1,18 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Formalization and Practice of Governance in OSS
+description: 
 img: assets/img/CHI_flow.jpg
 importance: 1
 category: work
 related_publications: chakraborti2023we
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Working through thousands of Apache and Github communities, I was fascinated by the inventiveness and dedication of the developers. How are such splendid software developed and maintained for free? 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+OSS projects stand apart from software companies in principle, and also how teams run themselves. Importantly, in how they coordinate, without a chain of management. Communities often set up their own policies and codes through democratic consensus. 
+
+Formal governance systems are being increasingly adopted among communities, particularly through non-profit mentor foundations. The project looks at at the Apache Software Foundation Incubator (ASFI) program and 208 projects it supports. We assemble a scalable, semantic pipeline to discover the governance behavior of project developers from their mailing lists, particularly their routine <em>governed activities</em> and the <em>internalization of formal policies</em> among such activities. We then investigate their relationship to what the formal ASFI policies prescribe, and their concentration across different topics. Our findings indicate that a greater amount of policy over a governed topic doesn't elicit more governed activity (and hence governance effort) on that topic, but does predict greater internalization of the policies by community members. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,18 +20,34 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    A semi surpervised pipeline for extracting routine practices ('governed activities') among developers and comparing them to ASFI policies.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/topic_email_policy.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: Distribution of ASFI policy extent across governance topics. Right: Distribution of governed activity of projects across different governance topics. Governed activity was not found to be significantly correlated to policy extent.
+</div>
 
-The code is simple.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/topic_scores.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Left: Distribution of ASFI policy extent across governance topics. Right: Distribution of internalization scores within topics. Red and Green markers indicate the median and mean respectively. Internalization is observed to be higher in governance topics which are more regulated.
+</div>
+
+Moreover our subsequent regression analysis of project behavior against incubator outcome shows that community governance, be it more governed routines or internalizing policy in practice along topics with more ASFI policy making, has limited association with their graduation odds. Consequently, we find limited support for the argument that projects embracing Apache's formalization indeed bolster their own operations and performance. Therefore, written formal policies from OSS communities may not be a comprehensive account of how their actual governance unfolds.
+
+<!-- The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Here's the code for the last row of images above: -->
 
 <!-- {% raw %}
 ```html
