@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello and Welcome!
 
-I am a doctoral candidate in Computational Social Science at the Department of Communication, UC Davis. I conduct empirical policy research and around emerging technolgies, informed by a background in applied and theoretical deep learning. I am advised by [Prof. Seth Frey](https://communication.ucdavis.edu/people/seth-frey) and part of the [Computational Communication Research Lab](https://c2.ucdavis.edu/). I have a Masters and a Bachelors in Electrical Engineering from the University of Southern California and Jadavpur University.
+I am a doctoral candidate in Computational Social Science and organizational communication at the Department of Communication, UC Davis. I conduct empirical policy research in emerging technolgies, informed by a background in applied and theoretical deep learning. I am advised by [Prof. Seth Frey](https://communication.ucdavis.edu/people/seth-frey) and part of the [Computational Communication Research Lab](https://c2.ucdavis.edu/). I have a Masters and a Bachelors in Electrical Engineering from the University of Southern California and Jadavpur University.
 
 
 My interests concern collectivism and self-governance among autonomous, online communities producing digital public goods (DPG). I study decentralized Open Source software (OSS) projects to understand how they establish consensus, cooperate and ensure productivity. This involves modeling policies analytically, detecting how they are constituted and observed within developer teams, and finally assesing their effective impact on the project's growth and sustained operations. 
