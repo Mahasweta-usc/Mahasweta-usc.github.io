@@ -29,9 +29,9 @@ My interests concern collectivism and self-governance among autonomous, online c
 
 I am presently foraying into how OSS regulates the scope of application and rights over AI artifacts/products they create, with rising general purpose usage and associated risk concerns. 
 
-Tracking governance evolution over project documentation, emails, issues and other unstructured, historcial trace data requires extensive information retrieval and extraction. Over the course of my research, I have acquired significant experience in deep learning and NLP stacks for implementing an array of linguistic and semantic methods. I have particularly worked in leveraging language models for qualitative behavioral and sociological constructs, and low resource representation learning and domain adaptation from limited expert annotation. 
+Tracking governance evolution over project documentation, emails, issues and other unstructured, historcial trace data requires extensive information retrieval and extraction. While furthering economic and sociological frameworks for OSS research at scale, I have acquired significant experience with deep NLP stacks to develop and enhance an array of linguistic and semantic methods. I have particularly worked in leveraging language models for discursive, behavioral constructs, and low resource representation learning and domain adaptation from limited expert annotation. 
 
-I am currently supported by the National Science Foundation under the Growing Convergence Research (GCR) Scheme.  
+I am currently supported by the National Science Foundation under the Growing Convergence Research (GCR) Scheme. I am also a regular summer speaker at the [Institutional Grammar Research Initiative](https://institutionalgrammar.org/).
 
 <!-- Tracking governance systems over project documentation, emails, issues and other historical trace data from OSS repositories and blobs. My work extensively incorporates information retrieval and extraction over large repositories of unstructured data through deep learning and NLP stacks. Over the course of my research, I have acquired experience in an array of linguistic and semantic methods, leveraging language models for qualitative behavioral and sociological constructs, and low resource representation learning from limited domain expert annotation.  -->
 
