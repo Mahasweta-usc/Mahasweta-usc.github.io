@@ -29,7 +29,7 @@ My interests concern collectivism and self-governance among autonomous, online c
 
 I am presently foraying into how OSS regulates the scope of application and rights over AI artifacts/products they create, with rising general purpose usage and associated risk concerns. 
 
-Tracking governance evolution over project documentation, emails, issues and other unstructured, historcial trace data requires extensive information retrieval and extraction. While furthering economic and sociological frameworks for OSS research at scale, I have acquired significant experience with deep NLP stacks to develop and enhance an array of linguistic and semantic methods. I have particularly worked in leveraging language models for discursive, behavioral constructs, and low resource representation learning and domain adaptation from limited expert annotation. 
+Tracking governance evolution over project documentation, emails, issues and other unstructured, historcial trace data requires extensive information retrieval and extraction. While furthering economic and sociological frameworks for OSS research at scale, I have acquired significant experience with deep NLP stacks to develop and enhance an array of linguistic and semantic methods. I have particularly worked in leveraging language models for discursive, behavioral constructs, and low resource representation learning and domain adaptation from limited qualitative annotation. 
 
 I am currently supported by the National Science Foundation under the Growing Convergence Research (GCR) Scheme. I am also a regular summer speaker at the [Institutional Grammar Research Initiative](https://institutionalgrammar.org/).
 
