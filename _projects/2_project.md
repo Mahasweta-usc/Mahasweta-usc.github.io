@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NLP4Gov-A Comprehensive Library for Exploring Governance in Online Communities
-description: 
-img: assets/img/ASF_graph.jpg
+title: NLP4Gov
+description: A Comprehensive Library for Exploring Governance in Online Communities
+img: assets/img/ASF_Graph.jpg
 importance: 2
 category: work
 related_publications: 
@@ -14,7 +14,7 @@ Check out our project at https://github.com/BSAkash/IG-SRL
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ASF_graph.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ASF_Graph.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
