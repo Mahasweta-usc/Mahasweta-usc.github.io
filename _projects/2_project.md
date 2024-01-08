@@ -18,7 +18,7 @@ Check out our project [here](https://github.com/BSAkash/IG-SRL)
     </div>
 </div>
 <div class="caption">
-    Graphical visualization of policies from the Apache Incubator (ASFI) documentation, depicting interactions between different entities and resources in these OSS projects. The institutionl network was generated through an end-to-end implementation of the ABDICO 2.0 framework. Edges are weighted by the number of policies regulating activities between the given pair of actors and objects. 
+    Graphical visualization of policies from the Apache Incubator (ASFI) documentation, depicting interactions between different entities and resources in these OSS projects. The institutional network was generated through an end-to-end implementation of the ABDICO 2.0 framework. Edges are weighted by the number of policies regulating activities between the given pair of actors and objects. 
 </div>
 
 
