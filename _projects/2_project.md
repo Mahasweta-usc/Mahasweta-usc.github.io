@@ -3,12 +3,14 @@ layout: page
 title: NLP4Gov-A Comprehensive Library for Exploring Governance in Online Communities
 description: 
 img: assets/img/ASF_graph.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: 
 ---
 
 Recent scholarship has highlighted the invaluable role of online communities in collaborative knowledge creation and production of digital public goods. Researchers have shown particular interest in how these groups establish tenable self-governance mechanisms to regulate member activities and distribute rights and privileges through defined responsibilities, roles and hierarchies. We present NLP4Gov, an interactive toolkit to train and aid scholars and practitioners furthering the study of online communities at scale. The library explores and integrates several methods from computational linguistics and different NLP tasks to generate numerical and symbolic representations of community policies from text records. Versatile, extensively documented and accessible, NLP4Gov provides granular and comparative views into institutional structures and interactions, along with other information extraction capabilities for downstream analysis. 
+
+Check out our project at https://github.com/BSAkash/IG-SRL
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -16,7 +18,7 @@ Recent scholarship has highlighted the invaluable role of online communities in 
     </div>
 </div>
 <div class="caption">
-    Graphical visualization of policies among the Apache Incubator projects, depicting interactions between different entities, offices and resources. Edges are weighted by the number of policies regulating activities between the given pair of institutional actors and objects. 
+    Graphical visualization of policies from the Apache Incubator (ASFI) documentation, depicting interactions between different entities and resources in these OSS projects. Edges are weighted by the number of policies regulating activities between the given pair of institutional actors and objects. 
 </div>
 
 
