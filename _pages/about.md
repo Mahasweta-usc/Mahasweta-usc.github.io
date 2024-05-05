@@ -27,7 +27,7 @@ I am a doctoral candidate in Computational Social Science and organizational com
 
 My interests concern collectivism and self-governance among autonomous, online communities producing digital public goods (DPG). I study decentralized Open Source software (OSS) projects to understand how they establish consensus, cooperate and ensure productivity. This involves modeling policies analytically, detecting how they are constituted and observed within developer teams, and finally assesing their effective impact on the project's growth and sustained operations. 
 
-I am presently foraying into how OSS regulates the scope of application and rights over AI artifacts/products they create, with rising general purpose usage and associated risk concerns. 
+With the rising ubiquity and concerns around AI, I am currently foraying into how OSS regulates the rights and scope of AI artifacts/products. In particular, I'm investigating copyright terms, restrictions and their application across data domains, pipelines and model scale. 
 
 Tracking governance evolution over project documentation, emails, issues and other unstructured, historcial trace data requires extensive information retrieval and extraction. While furthering economic and sociological frameworks for OSS research at scale, I have acquired significant experience with deep NLP stacks to develop and enhance an array of linguistic and semantic methods. I have particularly worked in leveraging language models for discursive, behavioral constructs, and low resource representation learning and domain adaptation from limited qualitative annotation. 
 
